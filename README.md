@@ -1,2 +1,3 @@
 # tugas2-GitHub
-ini adalah tugas 2 msib saya 
+ini adalah msib saya 
+Ini adalah repository untuk tugas 2 lanjutan project di MSIB 6 
